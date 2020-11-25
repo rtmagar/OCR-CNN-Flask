@@ -17,7 +17,7 @@ The project consists of a model trained to extract words from natural scene imag
 * Flask
 
 ## CNN Model
-![](Images/rtttttttttttttt.PNG)
+![](Images/cnn_model.PNG)
 
 ## Run
 `python app.py`
