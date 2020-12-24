@@ -22,5 +22,4 @@ The project consists of a model trained to extract words from natural scene imag
 ## Run
 `python app.py`
 
-## Refrence
-[Project](https://github.com/AlChiu/HandWriting-OCR-CNN-WebApp)
+
